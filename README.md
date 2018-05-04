@@ -8,3 +8,4 @@ This is a simple demo app that creates buttons to toggle ON/OFF the bluetooth ra
 A checkbox and status strings provide functionality to communicate with an embedded microcontroller such as an Arduino. You can find the Arduino gist here: https://gist.github.com/bauerjj/424442ed08647a26652f9fe0736bfa28
 
 
+dddd
